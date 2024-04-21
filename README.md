@@ -67,9 +67,8 @@ Here are some ideas to get you started:
     <img
       src="https://img.shields.io/badge/kjw44200@naver.com-000000?style=for-the-badge&logo=naver&logoColor=white"/><br/>
   </a>
-</div><br/>
-<br/>
-<br/>
+</div><br/><br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjw4420&layout=donut)](https://github.com/kjw4420/github-readme-stats)
 ![JIWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjw4420&show_icons=true&theme=radical)
 
