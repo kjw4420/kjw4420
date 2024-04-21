@@ -38,9 +38,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  
- 
-  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   
 </h2>
 
@@ -55,5 +53,22 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/><br/>
 </h3>
+
+<h3 align="center">
+ 💙Contact💙 
+</h3>
+<div align="center">
+  <a href="https://jiwon-www.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FF6C37?style=for-the-badge&logo=Tistory&logoColor=white" />
+  </a>
+  <a href="mailto:oka1313@gmail.com">
+    <img
+      src="https://img.shields.io/badge/kjw44200@naver.com-000000?style=for-the-badge&logo=naver&logoColor=white"/><br/>
+  </a>
+</div><br/>
+
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjw4420&layout=compact)
+
