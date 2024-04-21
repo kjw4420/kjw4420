@@ -41,11 +41,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   
 </h2>
-
+<!--
 <h3 align="center">
  ✨Interest✨ 
 </h3>
-
+-->
 <h3 align="center">
  🛠Tools🛠 
   <br/><br/>
