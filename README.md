@@ -69,8 +69,16 @@ Here are some ideas to get you started:
   </a>
 </div><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjw4420&layout=donut)](https://github.com/kjw4420/github-readme-stats)
-![JIWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjw4420&show_icons=true&theme=radical)
 
 
+
+<div align = "center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjw4420&layout=compact)
+ 
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjw4420&count_bg=%23278EC2&title_bg=%23AFB8BE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
