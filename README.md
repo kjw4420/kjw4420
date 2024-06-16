@@ -37,12 +37,16 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/JavaScrpit-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/googlebigquery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/><br/>
+ <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/googlecloudstorage-4285F4?style=flat-square&logo=googlecloudstorage&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apachesuperset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/><br/>
+  
   
   
 </h2>
