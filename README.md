@@ -44,6 +44,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/googlecloudstorage-4285F4?style=flat-square&logo=googlecloudstorage&logoColor=white"/>
   <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/apachesuperset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white"/><br/>
+ <img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+ <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/><br/>
   
